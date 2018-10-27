@@ -134,8 +134,9 @@ namespace App5
                     password = password
                 };
                 db.Insert(dbb);
-                await DisplayAlert(null, "succesfully registered: " + name, "OK");
                 Navigation.PushAsync(new dashboard());
+                await DisplayAlert(null, "succesfully registered: " + name, "OK");
+                
             }
 
         }
