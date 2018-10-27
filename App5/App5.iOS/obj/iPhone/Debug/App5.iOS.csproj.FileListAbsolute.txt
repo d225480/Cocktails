@@ -1,0 +1,8 @@
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\optimized\
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\App5.iOS.csprojAssemblyReference.cache
+C:\Users\m-don\source\repos\App5\App5\App5.iOS\obj\iPhone\Debug\App5.iOS.csproj.CoreCompileInputs.cache

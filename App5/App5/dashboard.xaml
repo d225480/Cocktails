@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App5.dashboard"
+             >
+    <ContentPage.Resources>
+        <StyleSheet Source="/Assets/style.css" />
+    </ContentPage.Resources>
+    <ContentPage.Content>
+
+        <StackLayout Orientation="Horizontal">
+            <StackLayout>
+               
+            </StackLayout>
+            <StackLayout>
+                        <Label Text="Suggestions"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                    <ScrollView Orientation="Horizontal">
+                    <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+                        <StackLayout>
+                            <Button StyleClass="cocktailbutton" HeightRequest="70" Text="cocktail" />
+                            <Label StyleClass="cocktailtext" Text="cocktail_name"  />
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Button Text="cocktail" HeightRequest="70" />
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail" HeightRequest="70" />
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail"  HeightRequest="70"/>
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail" HeightRequest="70"/>
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+                    <Label Text="History"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                    <ScrollView Orientation="Horizontal">
+                    <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+                        <StackLayout>
+                            <Button StyleClass="cocktailbutton" HeightRequest="70" Text="cocktail" />
+                            <Label StyleClass="cocktailtext" Text="cocktail_name"  />
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Button Text="cocktail" HeightRequest="70" />
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail" HeightRequest="70" />
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail"  HeightRequest="70"/>
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail" HeightRequest="70"/>
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+                    <Label Text="Favorites"
+                        VerticalOptions="CenterAndExpand" 
+                        HorizontalOptions="CenterAndExpand" />
+                <ScrollView Orientation="Horizontal">
+                    <StackLayout   VerticalOptions="Center" Orientation="Horizontal" HorizontalOptions="Center">
+                        <StackLayout>
+                            <Button StyleClass="cocktailbutton" HeightRequest="70" Text="cocktail" />
+                            <Label StyleClass="cocktailtext" Text="cocktail_name"  />
+                        </StackLayout>
+
+                        <StackLayout>
+                            <Button Text="cocktail" HeightRequest="70" />
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail" HeightRequest="70" />
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail"  HeightRequest="70"/>
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                        <StackLayout>
+                            <Button  Text="cocktail" HeightRequest="70"/>
+                            <Label  Text="cocktail_name"  />
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
